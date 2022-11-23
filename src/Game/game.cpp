@@ -11,7 +11,7 @@ int shadow = 30;
 
 Game::Game ()
 {
-    std::cout << "SPRITE MANAGEMENT" << std::endl;
+    std::cout << "SPRITE RENDERER PUSHEEN" << std::endl;
     std::cout << " " << std::endl;
 
     FPS = 60;
@@ -149,7 +149,7 @@ void Game::update(){
 }
 void Game::render(){
 
-    SDL_SetRenderDrawColor(renderer, 255, 255, 255, 1);
+    SDL_SetRenderDrawColor(renderer, 106, 90, 205, 1);
     SDL_RenderClear(renderer);
   
     tex->render(200, 200, 300, 300);

@@ -1,0 +1,6 @@
+/mnt/c/Users/andre/OneDrive/Desktop/game-engines/SpriteRenderer/build/CMakeFiles/Pong.dir
+/mnt/c/Users/andre/OneDrive/Desktop/game-engines/SpriteRenderer/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/andre/OneDrive/Desktop/game-engines/SpriteRenderer/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/andre/OneDrive/Desktop/game-engines/SpriteRenderer/build/src/Math/CMakeFiles/math.dir
+/mnt/c/Users/andre/OneDrive/Desktop/game-engines/SpriteRenderer/build/src/Math/CMakeFiles/edit_cache.dir
+/mnt/c/Users/andre/OneDrive/Desktop/game-engines/SpriteRenderer/build/src/Math/CMakeFiles/rebuild_cache.dir

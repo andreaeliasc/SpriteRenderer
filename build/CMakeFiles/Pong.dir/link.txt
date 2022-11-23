@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/Pong.dir/src/main.cpp.o CMakeFiles/Pong.dir/src/Game/game.cpp.o -o Pong   -L/mnt/c/Users/andre/OneDrive/Desktop/game-engines/SpriteRenderer/src/Math  -Wl,-rpath,/mnt/c/Users/andre/OneDrive/Desktop/game-engines/SpriteRenderer/src/Math src/Math/libmath.a -lSDL2 -lSDL2_image 
